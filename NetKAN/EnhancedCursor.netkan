@@ -5,6 +5,7 @@ $vref: '#/ckan/ksp-avc'
 ---
 identifier: EnhancedCursor
 $kref: '#/ckan/spacedock/4451'
+"x_netkan_version_edit": "^v(?<version>.*)$",
 $vref: '#/ckan/ksp-avc'
 tags:
   - plugin
