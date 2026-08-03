@@ -1,6 +1,6 @@
 identifier: EnhancedCursor
-$kref: '#/ckan/github/extraext/EnhancedCursor'
-x_netkan_version_edit: ^v?(?<version>.+)$
+$kref: '#/ckan/github/extraext/EnhancedCursor',
+"x_netkan_version_edit": "^v?(?<version>.+)$"
 $vref: '#/ckan/ksp-avc'
 ---
 identifier: EnhancedCursor
